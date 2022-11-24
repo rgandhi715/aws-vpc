@@ -6,6 +6,6 @@ vpc = [
     name = "hcl-sap-vpc-d-cp"
     enable_dns_support = true
     enable_dns_hostnames = true
-    instance_tenancy = "default
+    instance_tenancy = "default"
   }
 ]
